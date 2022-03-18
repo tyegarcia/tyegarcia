@@ -17,10 +17,10 @@ welcome to my Github! I'm a tech enthusiast who loves to learn new things.
 
 <br>
 
-### Technical Skills:
+## Technical Skills:
 
-[<img align="left" alt="Python" width="40px" src="images/python.gif" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Java" width="40px" src="images/java.gif" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Python" width="40px" src="images/python2.gif" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Java" width="40px" src="images/java2.gif" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="JavaScript" width="40px" src="images/javascript.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="HTML5" width="40px" src="images/html5.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="CSS3" width="40px" src="images/css3.png" style="padding-right:10px;" />][linkedin]
@@ -28,6 +28,8 @@ welcome to my Github! I'm a tech enthusiast who loves to learn new things.
 [<img align="left" alt="nodeJS" width="40px" src="images/nodejs.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="MySQL" width="40px" src="images/mysql.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="mongoDB" width="40px" src="images/mongodb.png" style="padding-right:10px;" />][linkedin]
+
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tyegarcia&theme=dark)](https://git.io/streak-stats)
 
