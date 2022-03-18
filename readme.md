@@ -1,11 +1,15 @@
 # Hi there, I'm [Tye][linkedin] 👋
 
-welcome to my Github! I'm a tech enthusiast who loves to learn new things.
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyegarcia&layout=compact&theme=dark&hide_border=true" alt="top lang" align="right" />
+</a>
+
+welcome to my GitHub! I'm a tech enthusiast who loves to learn new things.
 
 - 💻 Full Stack Software Engineer
 - 🎓 B.S. Computer Science expected December 2023
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyegarcia&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Let's connect!
 
@@ -37,3 +41,6 @@ welcome to my Github! I'm a tech enthusiast who loves to learn new things.
 
 [twitter]: https://twitter.com/tyegarciaa
 [linkedin]: https://linkedin.com/in/tyegarcia
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyegarcia&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
