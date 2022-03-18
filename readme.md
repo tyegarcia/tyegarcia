@@ -6,12 +6,11 @@ welcome to my GitHub! I'm a tech enthusiast who loves to learn new things.
 - 💻 Full Stack Software Engineer
 - 🎓 B.S. Computer Science expected December 2023
 
+<a href="#macropower-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyegarcia&layout=compact&theme=dark&hide_border=true" alt="top lang" align="" />
+</a>
 
 ## Technical Skills:
-
-<a href="#macropower-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyegarcia&layout=compact&theme=dark&hide_border=true" alt="top lang" align="right" />
-</a>
 
 [<img align="left" alt="Python" width="50px" src="images/python2.gif" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="Java" width="50px" src="images/java2.gif" style="padding-right:10px;" />][linkedin]
@@ -24,8 +23,6 @@ welcome to my GitHub! I'm a tech enthusiast who loves to learn new things.
 [<img align="left" alt="mongoDB" width="50px" src="images/mongodb.png" style="padding-right:10px;" />][linkedin] 
 <br />
 <br />
-<br />
-<br />
 
 ## Let's connect!
 
@@ -34,6 +31,8 @@ welcome to my GitHub! I'm a tech enthusiast who loves to learn new things.
   <a href="https://twitter.com/tyegarciaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyegarciaa twitter" height="30" width="40" /></a>
   <a href="https://instagram.com/tyegarciaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyegarcia instagram" height="30" width="40" /></a>
  </p>
+ 
+<br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tyegarcia&theme=dark)](https://git.io/streak-stats)
 
