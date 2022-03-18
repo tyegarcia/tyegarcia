@@ -15,7 +15,6 @@ welcome to my Github! I'm a tech enthusiast who loves to learn new things.
   <a href="https://instagram.com/tyegarciaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyegarcia instagram" height="30" width="40" /></a>
  </p>
 
-<br>
 
 ## Technical Skills:
 
@@ -27,9 +26,9 @@ welcome to my Github! I'm a tech enthusiast who loves to learn new things.
 [<img align="left" alt="react" width="40px" src="images/react.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="nodeJS" width="40px" src="images/nodejs.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="MySQL" width="40px" src="images/mysql.png" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="mongoDB" width="40px" src="images/mongodb.png" style="padding-right:10px;" />][linkedin]
-
-<br>
+[<img align="left" alt="mongoDB" width="40px" src="images/mongodb.png" style="padding-right:10px;" />][linkedin] 
+<br />
+<br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tyegarcia&theme=dark)](https://git.io/streak-stats)
 
