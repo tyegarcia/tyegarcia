@@ -1,7 +1,7 @@
 # Hi there, I'm [Tye][linkedin] 👋
 
 
-welcome to my GitHub! I'm a tech enthusiast who loves to learn new things.
+welcome to my GitHub! I'm a tech enthusiast who loves to learn.
 
 - 💻 Full Stack Software Engineer
 - 🎓 B.S. Computer Science expected 2023
@@ -21,6 +21,8 @@ welcome to my GitHub! I'm a tech enthusiast who loves to learn new things.
 [<img align="left" alt="nodeJS" width="50px" height="50px" src="images/nodejs.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="MySQL" width="50px" height="50px" src="images/mysql.png" style="padding-right:10px;" />][linkedin]
 [<img align="left" alt="mongoDB" width="50px" height="50px" src="images/mongodb.png" style="padding-right:10px;" />][linkedin] 
+<br />
+<br />
 <br />
 <br />
 
