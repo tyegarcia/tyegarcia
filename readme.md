@@ -4,7 +4,7 @@
 welcome to my GitHub! I'm a tech enthusiast who loves to learn.
 
 - 💻 Full Stack Software Engineer
-- 🎓 B.S. Computer Science expected 2023
+- 🎓 B.S. Computer Science
 
 <a href="#macropower-title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyegarcia&layout=compact&theme=dark&hide_border=true" alt="top lang" align="" />
